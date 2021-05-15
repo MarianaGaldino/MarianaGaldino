@@ -1,8 +1,12 @@
 ## Hello! 👋
 Oie, eu sou a Mariana Galdino 👸
+
 Esse ano resolvi me aventurar na tecnologia, e estou estudando Análise e Desenvolvimento de Sistemas.
+
 Aqui vou registrar um pouco do que eu for aprendendo.
+
 ##### Espero ajudar e ser ajudada! 🤝
+ 💻 🧠 🌎 
 
 
 <div>
