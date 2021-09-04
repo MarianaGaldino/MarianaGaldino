@@ -4,7 +4,7 @@ Oie, eu sou a Mariana Galdino 👸
 Esse ano resolvi me aventurar na tecnologia e estou estudando Análise e Desenvolvimento de Sistemas.
 
 
-Estou participando também do Programa Luiza <code> !
+Estou participando também do Programa Luiza Code !
 
 Aqui vou registrar um pouco do que eu for aprendendo.
 
