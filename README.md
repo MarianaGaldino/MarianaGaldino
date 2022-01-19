@@ -1,10 +1,11 @@
 ## Hello! 👋
 Oie, eu sou a Mariana Galdino 👸
 
-Esse ano resolvi me aventurar na tecnologia e estou estudando Análise e Desenvolvimento de Sistemas.
+Esse ano resolvi me aventurar na tecnologia e estou no 3 semestre do curso Análise e Desenvolvimento de Sistemas.
 
+Nessa jornada tive a oportunidade de participar da imersão do Luiza<Code> em que desenvolvemos um CRUD completo
 
-Estou participando também do Programa Luiza Code !
+Atualmente estou evoluindo meus conhecimento em back-end com a linguagem Java
 
 Aqui vou registrar um pouco do que eu for aprendendo.
 
