@@ -3,7 +3,7 @@ Oie, eu sou a Mariana Galdino 👸
 
 Esse ano resolvi me aventurar na tecnologia e estou no 3 semestre do curso Análise e Desenvolvimento de Sistemas.
 
-Nessa jornada tive a oportunidade de participar da imersão do Luiza<Code> em que desenvolvemos um CRUD completo
+Nessa jornada tive a oportunidade de participar da imersão do Luiza Code em que desenvolvemos um CRUD completo
 
 Atualmente estou evoluindo meus conhecimento em back-end com a linguagem Java
 
