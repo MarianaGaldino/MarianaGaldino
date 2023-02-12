@@ -1,11 +1,7 @@
 ## Hello! 👋
-Oie, eu sou a Mariana Galdino 👸
+Oie, eu sou a Mari Galdino 👸
 
-Esse ano resolvi me aventurar na tecnologia e estou no 3 semestre do curso Análise e Desenvolvimento de Sistemas.
-
-Nessa jornada tive a oportunidade de participar da imersão do Luiza Code em que desenvolvemos um CRUD completo
-
-Atualmente estou evoluindo meus conhecimento em back-end com a linguagem Java
+Atualmente sou Dev BackEnd Jr no Mercado Livre, atuo principalmente com Java
 
 Aqui vou registrar um pouco do que eu for aprendendo.
 
